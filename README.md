@@ -17,6 +17,7 @@ Feel free to create a PR to add more to the list
 - [forefront-chat](https://chat.forefront.ai/)
 - [Poe](https://poe.com/)
 - [perplexity.ai](https://www.perplexity.ai/)
+- [Bard](https://bard.google.com/)
 
 ## Chat with documents
 - [privateGPT](https://github.com/imartinez/privateGPT)
